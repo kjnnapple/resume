@@ -69,7 +69,14 @@
   padding-top: 10px;
   padding-bottom: 10px;
 }
- .my-skill{
+ .my-contact1{
+     background-color: #f9fcff;
+    border-right: #ccf2f4 solid 50px;
+  border-left: #ccf2f4 solid 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+ }
+.my-contact2{
      background-color: #f9fcff;
     border-right: #ccf2f4 solid 50px;
   border-left: #ccf2f4 solid 50px;
@@ -83,4 +90,11 @@
   padding-top: 20px;
   padding-bottom: 20px;
  }
- 
+ .my-all{
+     background-color: #f9fcff;
+    border-right: #ccf2f4 solid 50px;
+  border-left: #ccf2f4 solid 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+ }
+
