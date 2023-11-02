@@ -14,7 +14,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <meta name="keywords" content="kanjana Homnan, korean air, resume">
-    <meta name="description" content="My name is Kanjana Homnan this KJNNAPPLE resume to apply for a flight attendant at Korean air and for let youto know more about me">
+    <meta name="description" content="My name is Kanjana Homnan this KJNNAPPLE resume to apply for a flight attendant at Korean air and for  you to know more about me">
   </head>
   <body class="my-bg" id="top">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -435,9 +435,8 @@
       </div>
       <div class="row my-contact1 d-none d-md-block">
         <div class="mx-auto text-center">
-          <h2 id="scrollspyHeading5"><span style="color: #053e89;"><b>CONTACT ME</b></span></h2>
-          <span style="color: #053e89;"> </span><br>
-          <br>
+         <h2 id="scrollspyHeading5"><span style="color: #063f89;"><b>CONTACT
+                ME</b></span></h2>
         </div>
         <div class="mb-3 row">
           <p> <label for="inputName" class="col-sm-2 col-form-label" style="color: #423100;">Name</label>
@@ -464,7 +463,8 @@ rows="3"></textarea> </p>
       </div>
       <div class="row my-contact2 d-block d-md-none ">
         <div class="mx-auto text-center">
-          <h2 id="scrollspyHeading5"><span style="color: #063f89;"><b>CONTACT ME</b></span></h2>
+          <h2 id="scrollspyHeading5"><span style="color: #063f89;"><b>CONTACT
+                ME</b></span></h2>
           <br>
           <br>
         </div>
